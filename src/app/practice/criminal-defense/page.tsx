@@ -8,7 +8,7 @@ const translations = {
   en: {
     pageTitle: 'Criminal Defense Law',
     heading: 'Criminal Defense: Protecting Your Rights and Freedom',
-    description1: 'Facing criminal charges can be one of the most stressful experiences in life. At Williamson Lawfirm, we provide aggressive and strategic defense for clients accused of misdemeanors and felonies. Our experienced attorneys are dedicated to safeguarding your rights and achieving the best possible outcome for your case.',
+    description1: 'Facing criminal charges can be one of the most stressful experiences in life. At Local Lawfirm, we provide aggressive and strategic defense for clients accused of misdemeanors and felonies. Our experienced attorneys are dedicated to safeguarding your rights and achieving the best possible outcome for your case.',
     description2: 'We handle a wide range of criminal cases, including:',
     case1: 'DUI & DWI',
     case2: 'Drug Offenses',
@@ -22,7 +22,7 @@ const translations = {
   es: {
     pageTitle: 'Defensa Criminal',
     heading: 'Defensa Criminal: Protegiendo Sus Derechos y Libertad',
-    description1: 'Enfrentar cargos criminales puede ser una de las experiencias más estresantes de la vida. En Williamson Lawfirm, brindamos una defensa agresiva y estratégica para clientes acusados de delitos menores y graves. Nuestros abogados experimentados están dedicados a proteger sus derechos y lograr el mejor resultado posible para su caso.',
+    description1: 'Enfrentar cargos criminales puede ser una de las experiencias más estresantes de la vida. En Local Lawfirm, brindamos una defensa agresiva y estratégica para clientes acusados de delitos menores y graves. Nuestros abogados experimentados están dedicados a proteger sus derechos y lograr el mejor resultado posible para su caso.',
     description2: 'Manejamos una amplia gama de casos criminales, incluyendo:',
     case1: 'DUI y DWI',
     case2: 'Delitos de Drogas',

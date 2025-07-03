@@ -82,7 +82,7 @@ export default function Navigation() {
       <div className="flex items-center space-x-3">
         <Image src="/styles/pictures/balances.jpg" alt="Logo" width={40} height={40} className="object-contain" />
         <span className="text-xl md:text-2xl font-extrabold font-quattrocento tracking-wide">
-          WILLIAMSON LAWFIRM
+          LOCAL LAWFIRM
         </span>
       </div>
       {/* Desktop Nav */}

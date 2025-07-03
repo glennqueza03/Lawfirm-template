@@ -19,7 +19,7 @@ const translations = {
     quote1: 'Your Case',
     quote2: 'Our Commitment.',
     about: 'About Us',
-    aboutText: 'Williamson Lawfirm has served the community for over 20 years, providing expert legal counsel in personal injury, criminal defense, and more. Our mission is to fight for your rights with integrity and dedication.',
+    aboutText: 'Local Lawfirm has served the community for over 20 years, providing expert legal counsel in personal injury, criminal defense, and more. Our mission is to fight for your rights with integrity and dedication.',
     practices: 'Practice Areas',
     personalInjury: 'Personal Injury',
     personalInjuryText: 'We fight for victims of accidents and negligence, ensuring you receive the compensation you deserve.',
@@ -54,7 +54,7 @@ const translations = {
     quote1: 'Su Caso',
     quote2: 'Nuestro Compromiso.',
     about: 'Sobre Nosotros',
-    aboutText: 'Williamson Lawfirm ha servido a la comunidad por más de 20 años, brindando asesoría legal experta en lesiones personales, defensa criminal y más. Nuestra misión es luchar por sus derechos con integridad y dedicación.',
+    aboutText: 'Local Lawfirm ha servido a la comunidad por más de 20 años, brindando asesoría legal experta en lesiones personales, defensa criminal y más. Nuestra misión es luchar por sus derechos con integridad y dedicación.',
     practices: 'Áreas de Práctica',
     personalInjury: 'Lesiones Personales',
     personalInjuryText: 'Luchamos por las víctimas de accidentes y negligencia, asegurando que reciba la compensación que merece.',
@@ -156,7 +156,7 @@ export default function Home() {
               <span className="text-[#bfa14a]">Our Commitment.</span>
             </h1>
             <p className="text-lg md:text-2xl text-white/90 font-quattrocento max-w-lg">
-              Williamson Lawfirm provides expert legal counsel and representation with integrity and dedication. Let us fight for your rights.
+              Local Lawfirm provides expert legal counsel and representation with integrity and dedication. Let us fight for your rights.
             </p>
             <button
               onClick={handleConsultationClick}

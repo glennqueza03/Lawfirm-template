@@ -8,7 +8,7 @@ const translations = {
   en: {
     pageTitle: 'Family Law',
     heading: 'Family Law: Compassionate Guidance for Families',
-    description1: 'Family law matters are deeply personal and often emotionally charged. At Williamson Lawfirm, we provide compassionate and knowledgeable legal support for families navigating divorce, child custody, support, and other sensitive issues. Our goal is to protect your interests and help you achieve the best possible outcome for your family.',
+    description1: 'Family law matters are deeply personal and often emotionally charged. At Local Lawfirm, we provide compassionate and knowledgeable legal support for families navigating divorce, child custody, support, and other sensitive issues. Our goal is to protect your interests and help you achieve the best possible outcome for your family.',
     description2: 'We assist clients with a variety of family law matters, including:',
     case1: 'Divorce & Separation',
     case2: 'Child Custody & Visitation',
@@ -22,7 +22,7 @@ const translations = {
   es: {
     pageTitle: 'Derecho Familiar',
     heading: 'Derecho Familiar: Orientación Compasiva para Familias',
-    description1: 'Los asuntos de derecho familiar son profundamente personales y, a menudo, emocionalmente difíciles. En Williamson Lawfirm, brindamos apoyo legal compasivo y experto para familias que enfrentan divorcios, custodia de hijos, manutención y otros temas delicados. Nuestro objetivo es proteger sus intereses y ayudarle a lograr el mejor resultado posible para su familia.',
+    description1: 'Los asuntos de derecho familiar son profundamente personales y, a menudo, emocionalmente difíciles. En Local Lawfirm, brindamos apoyo legal compasivo y experto para familias que enfrentan divorcios, custodia de hijos, manutención y otros temas delicados. Nuestro objetivo es proteger sus intereses y ayudarle a lograr el mejor resultado posible para su familia.',
     description2: 'Asistimos a clientes en una variedad de asuntos de derecho familiar, incluyendo:',
     case1: 'Divorcio y Separación',
     case2: 'Custodia y Visitas de Menores',

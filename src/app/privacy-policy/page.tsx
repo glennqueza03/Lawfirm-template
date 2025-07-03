@@ -9,7 +9,7 @@ export default function PrivacyPolicyPage() {
         <section className="max-w-4xl mx-auto px-4 py-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-8 font-quattrocento text-[#6B4F27]">Privacy Policy</h1>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-            This Privacy Policy describes how Williamson Lawfirm collects, uses, and protects your personal information when you use our website. We are committed to safeguarding your privacy and ensuring that your personal data is handled responsibly.
+            This Privacy Policy describes how Local Lawfirm collects, uses, and protects your personal information when you use our website. We are committed to safeguarding your privacy and ensuring that your personal data is handled responsibly.
           </p>
           <h2 className="text-2xl font-bold mb-4 font-quattrocento text-[#6B4F27]">Information We Collect</h2>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">

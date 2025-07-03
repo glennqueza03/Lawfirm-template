@@ -8,7 +8,7 @@ const translations = {
   en: {
     pageTitle: 'Personal Injury Law',
     heading: 'Personal Injury: Seeking Justice for the Injured',
-    description1: 'At Williamson Lawfirm, we understand the profound impact a personal injury can have on your life. From medical bills and lost wages to emotional distress and long-term suffering, the aftermath of an accident can be overwhelming. Our dedicated team of personal injury attorneys is committed to helping you navigate this challenging time and secure the compensation you rightfully deserve.',
+    description1: 'At Local Lawfirm, we understand the profound impact a personal injury can have on your life. From medical bills and lost wages to emotional distress and long-term suffering, the aftermath of an accident can be overwhelming. Our dedicated team of personal injury attorneys is committed to helping you navigate this challenging time and secure the compensation you rightfully deserve.',
     description2: 'We handle a wide range of personal injury cases, including:',
     case1: 'Car Accidents',
     case2: 'Truck Accidents',
@@ -22,7 +22,7 @@ const translations = {
   es: {
     pageTitle: 'Derecho de Lesiones Personales',
     heading: 'Lesiones Personales: Buscando Justicia para los Lesionados',
-    description1: 'En Williamson Lawfirm, entendemos el profundo impacto que una lesión personal puede tener en su vida. Desde facturas médicas y salarios perdidos hasta angustia emocional y sufrimiento a largo plazo, las secuelas de un accidente pueden ser abrumadoras. Nuestro dedicado equipo de abogados de lesiones personales se compromete a ayudarle a navegar por este momento difícil y asegurar la compensación que legítimamente merece.',
+    description1: 'En Local Lawfirm, entendemos el profundo impacto que una lesión personal puede tener en su vida. Desde facturas médicas y salarios perdidos hasta angustia emocional y sufrimiento a largo plazo, las secuelas de un accidente pueden ser abrumadoras. Nuestro dedicado equipo de abogados de lesiones personales se compromete a ayudarle a navegar por este momento difícil y asegurar la compensación que legítimamente merece.',
     description2: 'Manejamos una amplia gama de casos de lesiones personales, incluyendo:',
     case1: 'Accidentes Automovilísticos',
     case2: 'Accidentes de Camiones',
